@@ -1,0 +1,7 @@
+{
+  "name": "uno-online",
+  "version": "1.0.0",
+  "main": "backend/server.js",
+  "scripts": { "start": "node backend/server.js" },
+  "dependencies": { "express": "^4.19.2", "ws": "^8.17.0", "better-sqlite3": "^11.0.0", "bcryptjs": "^2.4.3" }
+}
